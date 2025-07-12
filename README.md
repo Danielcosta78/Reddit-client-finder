@@ -11,9 +11,9 @@ Access the tool here: [https://danielcosta78.github.io/Reddit-client-finder/](ht
 * **Niche-Based Subreddit Discovery:** Enter your product or service niche (e.g., "AI", "webdev", "cybersecurity") and get a curated list of relevant subreddits, complete with member counts and descriptions.
 * **Intelligent Niche Matching:** The tool uses an extensive database of subreddits and associated keywords to provide highly accurate and relevant recommendations, even normalizing common tech terms (e.g., "IA" to "Artificial Intelligence").
 * **Popular Post Ideas:** Get inspiration from a dynamic list of popular post examples tailored to your identified niche, helping you craft engaging content.
-* **AI-Powered Post Generator:**
+* **Post Generator:**
     * **Structured Input:** Dedicated fields for your product name, the problem it solves, key features (bullet points), target audience, and call to action ensure highly relevant and well-structured post suggestions.
-    * **20 Diverse Templates:** Generates unique Reddit post drafts based on your input, ranging from product launches and feedback requests to educational content and personal journeys. Each template is designed to maximize engagement on Reddit.
+    * **Diverse Templates:** Generates unique Reddit post drafts based on your input, ranging from product launches and feedback requests to educational content and personal journeys. Each template is designed to maximize engagement on Reddit.
     * **Dynamic Content Insertion:** Automatically integrates your product details into the selected post template for a personalized draft.
 * **Best Times to Post:** Provides general recommendations for optimal posting times on Reddit, converted to your local timezone, to help maximize visibility and engagement.
 * **Comprehensive Posting Tips:** A curated list of best practices for posting on Reddit, ensuring you adhere to community guidelines and foster genuine engagement.
