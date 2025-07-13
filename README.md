@@ -39,3 +39,9 @@ Reddit is a powerful platform for organic growth and genuine community engagemen
     * Optionally, add a link to your product.
     * Click "Generate Post" to get a tailored draft.
 4.  **Review & Export:** Examine the suggested subreddits, post ideas, the generated post, and best posting times. Click "Download as TXT" to save your personalized action plan.
+
+☕️ Buy me a coffee
+
+- 💵 [PayPal](https://www.paypal.com/donate/?hosted_button_id=N8A6EWXCNPB78)
+- ₿ Bitcoin address: `bc1q804hpml7g5d7vwqv8y9sul8yzgdsa7sa5z676g`
+[blockstream.info](https://blockstream.info/address/bc1q804hpml7g5d7vwqv8y9sul8yzgdsa7sa5z676g)
